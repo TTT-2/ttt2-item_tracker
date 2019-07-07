@@ -39,3 +39,9 @@ luac.out
 *.x86_64
 *.hex
 
+
+*.gma
+
+ttt2-item_tracker\.jpg
+
+addon\.json
