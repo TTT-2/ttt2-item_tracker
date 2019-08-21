@@ -13,7 +13,6 @@ ITEM.EquipMenuData = {
 }
 ITEM.material = "vgui/ttt/icon_tracker"
 ITEM.credits = 3
-ITEM.notBuyable = true
 ITEM.CanBuy = {ROLE_TRAITOR, ROLE_DETECTIVE}
 
 if CLIENT then
